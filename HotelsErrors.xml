@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Hotel>
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>11</Number>
+            <Street>E. 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.7">
+        <Name>Ritz-Carlton</Name>
+        <Address NearestAirport="Tucson International">
+            <Number>15000</Number>
+            <Street>N. Secret Springs Dr</Street>
+            <City>Marana</City>
+            <State>AZ</State>
+            <Zip>85658</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Warwick Seattle</Name>
+        <Phone>206-443-4300</Phone>
+        <Address NearestAirport="Seattle-Tacoma International">
+            <Number>401</Number>
+            <Street>Lenora St</Street>
+            <City>Seattle</City>
+            <State>WA</State>
+            <Zip>98121</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.9">
+        <Name>The Lodge of Four Seasons</Name>
+        <Phone>573-365-3000</Phone>
+        <Address>
+            <Number>315</Number>
+            <Street>Four Seasons Dr</Street>
+            <City>Lake Ozark</City>
+            <State>MO</State>
+            <Zip>65049</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.8">
+        <Name>The Empire</Name>
+        <Phone>212-265-7400</Phone>
+        <Address NearestAirport="LaGuardia">
+            <Number>44</Number>
+            <Street>W. 63rd St</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10023</Zip>
+    </Hotel>
+    <Hotel Rating="3.3">
+        <Name>Ramada</Name>
+        <Name>THE RAMAMDA</Name>
+        <Phone>480-400-9038</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>1701</Number>
+            <Street>W. Baseline Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85283</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.0">
+        <Name>The Clarendon</Name>
+        <Phone>602-252-7363</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>401</Number>
+            <Street>W. Clarendon Ave #1</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85013</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.5">
+        <Name>Hyatt Place</Name>
+        <Phone>480-969-8200</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>1422</Number>
+            <Street>Bass Pro Dr</Street>
+            <City>Mesa</City>
+            <State>AZ</State>
+            <Zip>85201</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.5">
+        <Name>Little American</Name>
+        <Phone>928-799-7900</Phone>
+        <Address NearestAirport="Flagstaff Pulliam">
+            <Number>2515</Number>
+            <Street>E. Butler Ave</Street>
+            <City>Flagstaff</City>
+            <State>AZ</State>
+            <Zip>86004</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.3">
+        <Name>Bell Rock Inn</Name>
+        <Phone>928-282-4161</Phone>
+        <Address NearestAirport="Flagstaff Pulliam">
+            <Number>6246</Number>
+            <Street>AZ-179</Street>
+            <City>Sedona</City>
+            <State>AZ</State>
+            <Zip>86351</Zip>
+        </Address>
+    </Hotel>
+</Hotel>
